@@ -1,4 +1,4 @@
-const config = require('../config');
+const Asena = require'../events');
 const MongoClient = require('mongodb').MongoClient;
 const fs = require('fs');
 
