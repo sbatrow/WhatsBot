@@ -139,7 +139,9 @@ async function handler(id) {
         } else {
             var out = ({
                 mute: false,
-                msg: `*✋ Wait*\n\nPlease wait until I will get back to Online, Kindly don't send another message.`
+                msg: `*✋ Wait*\n\nPlease wait PMSecurity of ⚡️ ⚡️ Sithum Batrow 🇱🇰⚡️⚡️!
+
+Please wait for me to respnd or you will be blocked and reported as spam!! .`
             })
             return out
         }
@@ -157,7 +159,9 @@ async function handler(id) {
             } else {
                 var out = ({
                     mute: false,
-                    msg: `*✋ Wait*\n\nPlease wait until I will get back to Online, Kindly don't send another message. You have ${read.times} warning(s).`
+                    msg: `*✋ Wait*\n\nPlease wait PMSecurity of ⚡️ ⚡️ Sithum Batrow 🇱🇰⚡️⚡️!
+
+Please wait for me to respnd or you will be blocked and reported as spam!!. You have ${read.times} warning(s).`
                 })
                 return out
             }
